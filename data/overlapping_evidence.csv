@@ -1,0 +1,6 @@
+study_id_a,study_id_b,relationship
+CHO-2018-INFANT,CHO-2022-PRENATAL-ATTN,Shared randomized maternal-feeding cohort; outcomes at different child ages. Not independent samples.
+D3-2019-VITAL,D3-2022-FRACTURE,Same VITAL parent trial population; different clinical endpoints. Not independent trial cohorts.
+QUE-2022-META,QUE-2016-BP-META,Meta-analyses contain overlapping original trials; avoid double counting.
+CRE-2024-META,CRE-2023-COGN-RCT,A primary RCT may be included within pooled reviews; inspect review inclusions before synthesizing.
+CRE-2024-META,CRE-2024-SLEEP-DEPRIV,Primary RCTs and subsequent evidence syntheses can share participants/studies. Verify inclusion.

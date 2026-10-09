@@ -1,0 +1,155 @@
+[
+  {
+    "ingredient_id": "glycine",
+    "name": "Glycine",
+    "aliases": "Gly; aminoacetic acid",
+    "category": "Amino acid",
+    "evidence_snapshot": "Small human sleep trial; GlyNAC results are combination-intervention evidence, not isolated glycine.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "magnesium-bisglycinate",
+    "name": "Magnesium bisglycinate",
+    "aliases": "Magnesium glycinate",
+    "category": "Mineral form",
+    "evidence_snapshot": "Small sleep-related effect in one RCT; elemental magnesium dose must be distinguished from compound mass.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "creatine",
+    "name": "Creatine monohydrate",
+    "aliases": "Creatine",
+    "category": "Amino-acid-derived compound",
+    "evidence_snapshot": "Cognition reviews diverge; effects depend on outcome and population.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "taurine",
+    "name": "Taurine",
+    "aliases": "2-aminoethanesulfonic acid",
+    "category": "Amino sulfonic acid",
+    "evidence_snapshot": "One human RCT studied blood-pressure outcomes in prehypertension.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "choline",
+    "name": "Choline",
+    "aliases": "Choline bitartrate",
+    "category": "Essential nutrient",
+    "evidence_snapshot": "Prenatal feeding study; cannot be extrapolated to adult memory claims.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "l-5-mthf",
+    "name": "L-5-methyltetrahydrofolate",
+    "aliases": "5-MTHF; methylfolate; folate",
+    "category": "Folate form",
+    "evidence_snapshot": "Homocysteine biomarker evidence in healthy volunteers; not a human longevity trial.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "vitamin-b12",
+    "name": "Vitamin B12",
+    "aliases": "Cobalamin; methylcobalamin",
+    "category": "Vitamin",
+    "evidence_snapshot": "Meta-analysis found no general cognitive improvement in people without overt deficiency.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "vitamin-d3",
+    "name": "Vitamin D3",
+    "aliases": "Cholecalciferol",
+    "category": "Vitamin",
+    "evidence_snapshot": "VITAL large trial did not reduce the primary cancer or major cardiovascular event outcomes.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "vitamin-k2-mk7",
+    "name": "Vitamin K2 MK-7",
+    "aliases": "Menaquinone-7",
+    "category": "Vitamin form",
+    "evidence_snapshot": "Three-year RCT assessed bone-density outcomes in postmenopausal women.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "tmg",
+    "name": "Trimethylglycine",
+    "aliases": "TMG; betaine",
+    "category": "Methyl donor",
+    "evidence_snapshot": "Higher gram-scale doses reduced homocysteine in a small crossover RCT; clinical endpoint not established.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "nr",
+    "name": "Nicotinamide riboside",
+    "aliases": "NR; nicotinamide riboside chloride",
+    "category": "NAD+ precursor",
+    "evidence_snapshot": "Short-term RCT increased markers of NAD+ metabolism; not human lifespan evidence.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "coq10",
+    "name": "Coenzyme Q10",
+    "aliases": "CoQ10; ubiquinone",
+    "category": "Coenzyme",
+    "evidence_snapshot": "Q-SYMBIO studied adjunctive use in chronic heart failure; not general-population longevity.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "pqq",
+    "name": "Pyrroloquinoline quinone",
+    "aliases": "PQQ; PQQ disodium",
+    "category": "Quinone",
+    "evidence_snapshot": "Small 12-week cognition RCT; formulation and dose matter.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "spermidine",
+    "name": "Spermidine",
+    "aliases": "Polyamine; wheat germ spermidine",
+    "category": "Polyamine",
+    "evidence_snapshot": "12-month phase 2b RCT found no significant difference on primary memory outcome.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "quercetin",
+    "name": "Quercetin",
+    "aliases": "Flavonol",
+    "category": "Polyphenol",
+    "evidence_snapshot": "Meta-analysis studied blood-pressure change, not longevity.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "resveratrol",
+    "name": "Trans-resveratrol",
+    "aliases": "Resveratrol",
+    "category": "Polyphenol",
+    "evidence_snapshot": "Human metabolic RCTs include negative findings; no proof of lifespan extension.",
+    "curation_status": "screened",
+    "last_checked": "2026-10-09"
+  },
+  {
+    "ingredient_id": "calcium-akg",
+    "name": "Calcium alpha-ketoglutarate",
+    "aliases": "Ca-AKG; alpha-ketoglutarate",
+    "category": "Metabolite salt",
+    "evidence_snapshot": "Human healthy-aging evidence not yet curated in this initial dataset; entry intentionally pending.",
+    "curation_status": "pending",
+    "last_checked": "2026-10-09"
+  }
+]
